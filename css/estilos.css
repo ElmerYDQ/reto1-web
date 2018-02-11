@@ -7,6 +7,8 @@
 	box-sizing: border-box;
 }
 
+.autoscroll{ overflow: auto; }
+
 .t1{
 	background: yellow;
 	width: 90%;
